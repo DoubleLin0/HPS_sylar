@@ -1,32 +1,30 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
+tags
 *.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
+*.sub
+*.guess
+ltmain.sh
 *.la
 *.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+.deps
+.dirstamp
+.libs
+*.lo
+*.pb.h
+*.pb.cc
+*.rl.cc
+aclocal.m4
+autom4te.cache
+config.h.in
+config.log
+config.status
+configure
+config.h.in~
+install-sh
+libtool
+Makefile
+Makefile.in
+missing
+stamp-h1
+*.pc
+depcomp
+*.xcodeproj
